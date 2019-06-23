@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://amliuxin.github.io/blogs/</id>
-    <title>Gridea</title>
-    <updated>2019-06-23T14:39:27.121Z</updated>
+    <title>Demo</title>
+    <updated>2019-06-23T14:40:06.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://amliuxin.github.io/blogs/"/>
     <link rel="self" href="https://amliuxin.github.io/blogs//atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://amliuxin.github.io/blogs//images/avatar.png</logo>
     <icon>https://amliuxin.github.io/blogs//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, Demo</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://amliuxin.github.io/blogs//post/hello-gridea</id>
